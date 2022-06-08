@@ -1,5 +1,5 @@
 config:
-  runTime: "Node"
+  runTime: "NodeJs"
   version: ""
   framework: "Quasar"
   buildCommand: "yarn build"
