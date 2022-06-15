@@ -2,7 +2,25 @@
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/quasar"><img src="public\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 
-# Quasar App 
+
+# Quasar App!
+
+This is a very basic example of a simple Quasar app.
+
+
+Clone this [elestio-examples/quasar](https://github.com/elestio-examples/quasar) 
+
+```
+git clone https://github.com/elestio-examples/quasar.git
+```
+Change into project directory.
+
+```
+yarn install
+yarn start
+```
+
+This starts your app in development mode, make the changes and push.
 
 
 <img src="public\screenshot.png" alt="screenshot of the example app" width="100%" />
