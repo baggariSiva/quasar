@@ -1,4 +1,4 @@
-# Quasar on Elestio
+# Quasar with Vue.js using quasar create on Elestio
 
 This is a minimal example of a Quasar site created using quasar create
 
